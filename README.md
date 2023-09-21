@@ -1,9 +1,9 @@
 <h1 align="center">Hi there, I'm Miguel 👨🏻‍💻</h1>
-<h3 align="center">A passionate iOS developer from Medellín, Colombia</h3>
+<h3 align="center">A passionate mobile developer from Medellín, Colombia</h3>
 
 - 🌱 I’m currently learning **SwiftUI**
 
-- 💬 Ask me about **Swift, UIKit, and iOS development in general**
+- 💬 Ask me about **Swift, UIKit, React Native, Typescript, Javascript and mobile development in general**
 
 - 📫 How to reach me **miguelangeluc0524@gmail.com**
 
